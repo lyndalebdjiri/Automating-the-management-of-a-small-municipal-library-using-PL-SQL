@@ -1,0 +1,23 @@
+ajouter adherent():
+ execute ajouterAdherent('nedjma','warda','21-may-2000','warda@gamil.com','21,rue elsalam','22-may-2022',1,1);
+
+enlever adherent():
+ execute enleverAdherent(6,'nedjma','warda');
+
+ajouterDocument():
+execute ajouterDocument('Matilda',2336.7,'Volume',1);
+
+enleverDocument()
+execute enleverDocument(13,'Matilda','Volume');
+
+execute listDocument;
+execute empruntable;<---- Voyage au bout de la nuit.
+
+emprunterLivre()
+execute emprunterLivre(3,'Voyage au bout de la nuit.','5-may-2022','20-may-2022');
+
+rendreLivre()
+execute rendreLivre;<--Voyage au bout de la nuit.
+
+--empruntable()
+execute empruntable;<--Les Raisins de la colère
